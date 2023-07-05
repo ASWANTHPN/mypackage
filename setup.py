@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='math-operations',
+    name='math-calc',
     version='0.1.0',
     description='A simple Python package for basic math operations',
-    author='Your Name',
+    author='Aswant PN',
     packages=find_packages(),
     install_requires=[
     ],
